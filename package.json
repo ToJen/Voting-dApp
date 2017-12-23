@@ -1,0 +1,23 @@
+{
+  "name": "votingapp",
+  "version": "1.0.0",
+  "description": "Voting dApp",
+  "main": "index.js",
+  "dependencies": {
+    "solc": "^0.4.19",
+    "web3": "0.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "solidity",
+    "testrpc",
+    "web3",
+    "ethereum",
+    "dapp"
+  ],
+  "author": "lifeoftomi",
+  "license": "ISC"
+}
