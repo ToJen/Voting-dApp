@@ -1,2 +1,4 @@
 # Voting-dApp
 A simple Voting dApp
+
+Original tutorial by Mahesh Murthy on [Medium](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2)
